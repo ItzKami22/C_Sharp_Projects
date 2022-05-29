@@ -1,0 +1,7 @@
+C:\Users\Камиль\source\repos\Lab 12 C Sharp\Lab 12 C Sharp\bin\Debug\Lab 12 C Sharp.exe.config
+C:\Users\Камиль\source\repos\Lab 12 C Sharp\Lab 12 C Sharp\bin\Debug\Lab 12 C Sharp.exe
+C:\Users\Камиль\source\repos\Lab 12 C Sharp\Lab 12 C Sharp\bin\Debug\Lab 12 C Sharp.pdb
+C:\Users\Камиль\source\repos\Lab 12 C Sharp\Lab 12 C Sharp\obj\Debug\Lab 12 C Sharp.csprojAssemblyReference.cache
+C:\Users\Камиль\source\repos\Lab 12 C Sharp\Lab 12 C Sharp\obj\Debug\Lab 12 C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\source\repos\Lab 12 C Sharp\Lab 12 C Sharp\obj\Debug\Lab 12 C Sharp.exe
+C:\Users\Камиль\source\repos\Lab 12 C Sharp\Lab 12 C Sharp\obj\Debug\Lab 12 C Sharp.pdb
